@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="codexium",
-    version="0.1.0",
+    version="0.2.0",
     author="Alex Bairez",
     description="A CLI tool that automatically generates README files using AI",
     long_description=long_description,
@@ -24,7 +24,6 @@ setup(
     },
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
