@@ -34,13 +34,9 @@ python -m codexium .
 
 Contributions are welcome! If you'd like to contribute, please fork this repository, create a new branch for your feature or bugfix, and submit a pull request when ready.
 
-## License
-
-Codexium is released under the [MIT License](https://github.com/yourusername/codexium/blob/master/LICENSE).
-
 ## Contact
 
-For any questions or inquiries, feel free to open an issue on this repository or reach out via email at [youremail@example.com](mailto:youremail@example.com).
+For any questions or inquiries, feel free to open an issue on this repository or reach out via Github
 
 ---
 
